@@ -25,4 +25,4 @@ function sumOfArray(arr){
 
 const arr = [20, 50, 40, 50, 30];
 const output = sumOfArray(arr);
-console.log(output);
+// console.log(output);

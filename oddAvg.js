@@ -21,4 +21,4 @@ function getOddAvg(numbers){
 const numbers = [20,56, 53, 23, 41, 89, 26, 72, 59, 27]
 
 const output = getOddAvg(numbers);
-console.log(output);
+// console.log(output);
